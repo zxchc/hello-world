@@ -1,2 +1,2 @@
 # hello-world
-学习
+I'm a autodidact.
